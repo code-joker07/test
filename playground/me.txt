@@ -1,0 +1,5 @@
+{{#user}}
+Name: Dibyajit Bag
+Skills: Python, SQL, PyTorch, TensorFlow, PowerBI, Excel.
+Email: bag.dibyajit@gmail.com
+{{/user}}
